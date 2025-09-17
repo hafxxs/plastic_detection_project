@@ -20,16 +20,6 @@ This project implements a simple plastic detection system using deep learning an
 - OpenCV
 - NumPy
 
-plastic_detection_project/  # Raw image dataset (organized by class)
-│
-├── dataset/               
-│   ├── plastic
-│   └── clean
-│
-├── processed_dataset/      # Automatically generated preprocessed images
-    ├── plastic
-    └── clean     
-├── app.py                  # Main Python script
-├── README.md               # Project documentation
+
 
 
